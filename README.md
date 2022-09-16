@@ -6,6 +6,6 @@
 A java implementation of A* search algorithm
 
 ## Gif
-![](https://github.com/FrancescoLindiner/PathFinder/tree/master/media/gif/example1.mp4)
+![](https://github.com/FrancescoLindiner/PathFinder/blob/master/media/gif/example1.gif)
 
 ## Installation
